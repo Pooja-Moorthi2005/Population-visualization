@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the CSV file
-df = pd.read_csv('C:/Users/Sys/Downloads/sample_countries_100.csv')
+df = pd.read_csv('D:/Ajoop/Ajoop-1.py')
 
 # 1. Bar chart: Average GDP per region
 plt.figure(figsize=(10, 6))
